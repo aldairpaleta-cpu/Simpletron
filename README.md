@@ -10,7 +10,7 @@ Este repositorio alberga la construcción de un sistema de dos piezas fundamenta
 2. **Un Simulador** escrito en `C` que actúa como la CPU virtual, capaz de interpretar el código SML generado, ejecutar operaciones aritméticas complejas y gestionar la memoria dinámica.
 
 ## 👤 Autor
-* **Desarrollador:** [Nombre Completo de tu Compañero]
+* **Desarrollador:** Aldair Paleta Moreno
 * **Repositorio oficial:** [https://github.com/aldairpaleta-cpu/Simpletron.git](https://github.com/aldairpaleta-cpu/Simpletron.git)
 
 ---
